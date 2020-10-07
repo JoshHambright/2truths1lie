@@ -4,6 +4,8 @@
     border-style: solid;
     border-radius: 10px;
     background-color: grey;
+    
+    
 }
 
 .title{
@@ -13,6 +15,7 @@
 
 .facts{
     color: blue;
+    float: left;
 
 }
 
@@ -28,6 +31,7 @@
     border-radius: 10px;
     background-color: lightgrey;
     text-align: center;
-    float: left;
-
+    margin: 0 auto;
+    width: 60%;
+    padding: 10px;
 }
